@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,400;1,700&family=Zilla+Slab:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+    color: #888888;
+    position: relative;
+    line-height: 1.8;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+;
+
+a:hover,
+a:focus {
+    text-decoration: none;
+}
+
+input:focus,
+button:focus,
+textarea:focus {
+    outline: none
+}
+
+img {
+    max-width: 100%;
+    height: auto
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Zilla Slab', serif;
+}
+
+.header-area {
+    font-family: 'Zilla Slab', serif;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.header-area a {
+    color: #333;
+}
+
+.header-area.header-absolute {
+    position: absolute;
+    z-index: 9;
+    left: 0;
+    top: 0;
+    width: 100%
+}
+
+.logo {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.header-area.header-absolute a,
+.search-box .search-icon {
+    color: #fff
+}
+
+
+.header-navigation {
+    padding: 10px 0 15px 0;
+}
+

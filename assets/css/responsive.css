@@ -1,0 +1,415 @@
+ /* Medium Layout: 1280px. */
+ @media only screen and (min-width: 992px) and (max-width: 1200px) {
+     .slide-text h2 {
+
+         font-size: 50px;
+     }
+
+     .tile-gallery img {
+         max-width: 320px;
+     }
+
+     .black-overlay h2 {
+         font-size: 27px;
+     }
+
+     .social-links {
+         margin-left: -29px;
+     }
+
+
+     /* home-2 */
+
+
+     .hero-text h2 {
+         font-size: 37px;
+     }
+
+     .hero-area p {
+         font-size: 12px;
+     }
+
+     .register-now-form {
+
+         width: 410px;
+     }
+
+     .success-plan img {
+         max-width: 500px
+     }
+
+     .success-plan h2 {
+
+         margin-top: 0px;
+         margin-bottom: 0px;
+     }
+
+     .success-plan .boxed-btn {
+         margin-top: 0px;
+
+     }
+
+
+     .social-link {
+
+         margin-left: -29px;
+     }
+
+/* single-service-description */
+
+     .service-description img {
+        height: 450px;
+
+    } }
+
+ /* Tablet & mobile Layout: 768px. */
+
+ @media only screen and (max-width: 991px) {
+    .main-menu {
+    display: none;
+}
+
+     .logo {
+         margin-top: 7px;
+     }
+
+     .slide-text h2 {
+
+         font-size: 30px;
+     }
+
+     .slide-text {
+         padding: 100px 0;
+     }
+
+     .space-90 {
+         display: none
+     }
+
+     .section-padding {
+
+         padding: 45px 35px;
+     }
+
+     .tile-gallery {
+
+         height: auto;
+         margin-left: 0px;
+
+     }
+
+     .tile-gallery img:nth-child(2) {
+         position: relative;
+         right: auto;
+         top: auto;
+
+     }
+
+     .tile-gallery img:nth-child(3) {
+         position: relative;
+         bottom: auto;
+         left: auto;
+
+     }
+
+     .digital-mkt:before {
+
+         height: 400px;
+         width: 100%;
+     }
+
+     .digital-mkt {
+         padding-top: 450px;
+     }
+
+     .single-service-item:hover:after {
+         display: none
+     }
+
+     .black-overlay.text-right .mobile-left {
+         text-align: left
+     }
+
+     .footer-area .col-md-2 {
+         margin-top: 50px;
+     }
+
+     /* home-page-2 */
+
+     .hero-text {
+         margin-top: 0px
+     }
+
+     .hero-area {
+
+         padding-top: 100px;
+         padding-bottom: 100px;
+     }
+
+     .hero-text h2 {
+         font-size: 32px;
+     }
+
+     .hero-area p {
+         font-size: 13px;
+         margin-top: 15px
+     }
+
+     .hero-area .col-md-5 {
+         padding-right: 30px;
+         padding-left: 30px;
+     }
+
+     .ticker-text {
+         margin-top: 0px
+     }
+
+     .success-plan h2 {
+
+         margin-bottom: 0px;
+         margin-top: 0;
+     }
+
+     .success-plan .success img {
+
+
+         width: 100%;
+         margin-top: 20px;
+     }
+
+     .success-plan .margin-80 {
+         display: none
+     }
+
+     .margin-bottom-60 {
+         margin-bottom: 0px;
+     }
+
+     .single-blogbox {
+         margin-top: 10px;
+     }
+
+     .register-now-form {
+
+         margin-top: 25px;
+     }
+
+     .black-overlay h2 {
+         font-size: 30px;
+     }
+/* 
+     single-service-description */
+
+     .service-description img {
+        height: 320px;
+   
+    }
+    .portfolio-filter li {
+    
+    padding: 4px 18px;
+    
+    }
+    .portfolio-filter li {
+    padding: 0px 5px;
+    font-size: 14px;
+    }
+
+     .service .container {
+       max-width:720px;
+    }
+
+    /* .single-portfolio.html */
+
+    .single-portfolio img {
+        margin-top: 0px
+    }
+
+
+ .service .col-md-8 {
+     flex: 0 0 100%; 
+     max-width: 100%;
+     text-align: center;
+     
+ }
+
+ .service .col-md-4 {
+    text-align: center;
+ }
+
+
+/* .testimonial-html */
+
+.section-padding.testimonials-area {
+    padding: 50px 50px;
+}
+
+
+ }
+
+
+
+
+
+
+ /* Tablet Layout: 768px. */
+ @media only screen and (min-width: 768px) and (max-width: 991px) {
+
+
+     .tile-gallery img {
+         height: 300px;
+
+     }
+
+     .digital-mkt .offset-md-6 {
+         margin-left: 20%
+     }
+
+
+     .footer-area .social-link {
+         margin-left: -71px;
+     }
+
+
+     .footer-area h5 {
+
+         margin-top: 20px;
+         margin-left: -60px;
+     }
+     .footer-area ul {
+         margin-left: -20px
+     }
+
+     .footer-area .col-md-4 {
+        flex: 0 0 100%; 
+        max-width: 100%;
+     }
+
+     .footer-area ul {
+        margin-left: -61px;
+    }
+    
+
+     /* home-page-2 */
+
+     .register-now-form {
+         max-width: 450px;
+     }
+
+     .success-plan .success img {
+
+
+         margin-top: 100px;
+         height: auto;
+     }
+
+     .hero-text {
+         margin-top: 175px;
+         width: 389px
+     }
+
+     .register-now-form {
+         margin-top: 0px;
+     }
+
+     .register-now-form {
+         width: 360px;
+     }
+
+     .footer-area .col-md-2 {
+         margin-top: 0px;
+     }
+
+/* single-service-description */
+
+     .widget .boxed-btn {
+    
+        padding: 4px;
+    }
+    .service-description img {
+    height: 350px;
+    }
+
+    .widget {
+   
+    padding: 8px;
+    
+}
+
+/* testimonial-html */
+
+.testimonials-area .col-md-4 {
+           
+    
+     flex: 0 0 100%; 
+     max-width: 100%;
+        
+}
+
+/* team-html */
+
+.team-3 .col-md-4 {
+    flex: 0 0 100%; 
+     max-width: 100%;
+}
+
+/* services-html */
+ .service .col-md-4 {
+      flex: 0 0 100%; 
+     max-width: 100%;
+ }
+
+ /* single-service-html */
+ .service .col-md-8 {
+     flex: 0 0 100%; 
+     max-width: 100%;
+     text-align: center;
+     
+ }
+
+ .service .col-md-4 {
+    text-align: center;
+ }
+
+
+
+ /* .single-portfolio.html */
+
+ .single-portfolio .col-md-6 {
+    
+     flex: 0 0 100%; 
+     max-width: 100%;  
+    text-align: center;
+}
+
+.single-portfolio img {
+    margin-top: 0px;
+}
+
+/* portfolio-html */
+
+.portfolio-filter li {
+    padding: 0px 15px;
+    
+}
+
+
+
+
+
+ }
+
+ /* Mobile Layout: 320px. */
+ @media only screen and (max-width: 767px) {
+     .tile-gallery img {
+
+         margin-top: 10px;
+     }
+
+     .tile-gallery {
+         text-align: center;
+     }
+
+ }
+
+ /* Wide Mobile Layout: 480px. */
+ @media only screen and (min-width: 480px) and (max-width: 767px) {}
